@@ -1,4 +1,4 @@
-FROM crunchydata/crunchy-backup:centos7-9.5-1.2.5
+FROM crunchydata/crunchy-backup:centos7-9.6.12-2.3.1
 
 USER root
 
